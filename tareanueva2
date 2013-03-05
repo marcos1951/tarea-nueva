@@ -1,0 +1,15 @@
+using System;
+
+namespace Tarea2 
+{
+    class Persona
+    {
+        public string nombre;
+        public string facebook;
+        public string domicilio;
+        public string telefono;
+
+    }
+ 
+   
+}
